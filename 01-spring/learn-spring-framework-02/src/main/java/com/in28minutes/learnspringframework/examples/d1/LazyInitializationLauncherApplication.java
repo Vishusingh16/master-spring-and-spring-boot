@@ -22,7 +22,7 @@ class ClassB {
 		//Logic
 		System.out.println("Some Initialization logic");
 		this.classA = classA;
-	}
+	}jn
 	
 	public void doSomething() {
 		System.out.println("Do Something");
